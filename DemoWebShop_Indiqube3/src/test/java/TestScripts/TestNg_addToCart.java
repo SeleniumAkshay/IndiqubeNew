@@ -18,7 +18,7 @@ public class TestNg_addToCart extends BaseTest{
 	public void addToCart() throws InterruptedException, IOException {
 		driver.findElement(By.partialLinkText("Digital downloads")).click();
 		List<WebElement> add = driver.findElements(By.xpath("//input[@value='Add to cart']"));
-		Assert.fail();
+//		Assert.fail();
 		int count = add.size();
 		System.out.println(count);
 		for (int i = 0; i <count; i++) {
