@@ -39,7 +39,7 @@ public class BaseTest {
 		sparkReporter =new ExtentSparkReporter("./Reports/"+um.currentTime()+".html");
 		report=new ExtentReports();
 	}
-	
+	//Jenkins
 	@BeforeTest
 	public void beforeTest() {
 		System.out.println("@BeforeTest");
