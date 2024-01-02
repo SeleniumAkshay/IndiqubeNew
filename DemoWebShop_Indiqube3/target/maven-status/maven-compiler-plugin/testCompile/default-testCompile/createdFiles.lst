@@ -1,0 +1,11 @@
+TestScripts\DataProviderEx.class
+TestScripts\TestNg_addToCart.class
+TestScripts\Pom.class
+TestScripts\TextNgRemoveFromCart.class
+TestScripts\DemoTest.class
+TestScripts\TextNgWishList.class
+TestScripts\TextNg_addToCartAssert.class
+TestScripts\TextNgPlaceOrder.class
+TestScripts\TestNgAddAddress.class
+TestScripts\RegisterTc.class
+TestScripts\TextNgRegister.class
